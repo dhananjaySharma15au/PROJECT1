@@ -14,7 +14,7 @@ if answer == "paris":
   print("correct")
 else:
   print("incorrect")
-  answerWronged += 2
+  answerWronged += 1
   print("the correct answer is paris")
 
 print("2. what is the capital of germany")
